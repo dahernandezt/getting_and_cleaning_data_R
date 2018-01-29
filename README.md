@@ -10,4 +10,7 @@
 Run the run_analysis.R script code from here.
 
 ## Getting the result
-5. A file "result.txt" should be generated into the working directory.
+A file "result.txt" should be generated into the working directory.
+
+## Code Book
+Look at the Code Book [here.](https://github.com/dahernandezt/getting_and_cleaning_data_R/blob/master/CodeBook.md)
